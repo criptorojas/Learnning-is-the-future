@@ -7,6 +7,12 @@ Criptorojas@gmail.com
 @criptorojas - vía telegram  
 
 Eth Wallet: 0x68cc8081f1b7987d911582258115c6362a847d04
+
+
 Nano wallet: xrb_3e1fcxrjmhk6azcia8y7hm967hkc7441h1ku5k87uarssp4dbym8q1cn9ton
+
+
 Doge Wallet: D6aeFSYD9HuGzjk2NhyqaoNNMrqNhKx5T1
+
+
 Btc Wallet: 1TB9Tjw1Zfb5kiod9CND3RbmraQ6QixXY
